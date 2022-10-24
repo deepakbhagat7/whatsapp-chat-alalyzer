@@ -7,4 +7,4 @@ demo-link:https://chat-analyzer-wp.herokuapp.com/
 
 3.here you can see the analysis of your whatsapp chat
 
-4 oryou can select individual person option also
+4 or you can select individual person option also
